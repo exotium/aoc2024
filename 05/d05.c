@@ -3,6 +3,7 @@
 #include <stdlib.h>
 #include <sys/mman.h>
 
+// size of input.txt
 #define B 15201
 
 A,o,c,D,a,y,V[3],_[99],$[100][100];C(void*a,void*
