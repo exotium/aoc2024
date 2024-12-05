@@ -11,5 +11,5 @@ b){o|=c=$[*(int*)b][*(int*)a];return c-1;}main(){
 char*h,*i=mmap(0,B,1,1,open("input.txt",0),0);for
 (h=i+B;*i^10;D=strtol(i,&i,10),a=strtol(i+1,&i,10
 ),$[D][a]=2,i++);for(;++i<h;_[y++]=strtol(i,&i,10
-),*i==10?qsort(_,y,4,C),V[o]+=_[y/2],o=y=0:0);
-printf("%d\n%d",*V,V[2]);}
+),*i==10|i>=h?qsort(_,y,4,C),V[o]+=_[y/2],o=y=0:0
+);printf("%d\n%d",*V,V[2]);}
