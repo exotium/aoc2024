@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <sys/mman.h>
 
-// size of input.txt
+/* size of input.txt */
 #define B 13999
 
 cmp(void*a,void*b){return*(int*)a-*(int*)b;}main(

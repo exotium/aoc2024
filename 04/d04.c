@@ -3,9 +3,9 @@
 #include <sys/mman.h>
 #include <arpa/inet.h>
 
-// size of input.txt
+/* size of input.txt */
 #define B 19739
-// size of grid
+/* size of grid */
 #define L 140
 
 char*_;int m,r,e,o,w[3],u[]={0,0,0,3,0,2},v[]={1-

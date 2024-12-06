@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <sys/mman.h>
 
-// size of input.txt
+/* size of input.txt */
 #define B 19826
 
 main(c){int m,e,o,w=1;long n;char*y,*a=mmap(0,B,1

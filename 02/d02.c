@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <sys/mman.h>
 
-// size of input.txt
+/* size of input.txt */
 #define B 19288
 
 main(s){int l[1000],d[1000][8],i,j,n,p,v,u,f,a,g,
