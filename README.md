@@ -32,3 +32,6 @@ i.e the counter for the second part is incremented by
 reads the ordering rules, then uses them for the comparison function of qsort()\
 the comparison function also sets a variable if the sort has changed the input\
 (to know what output the middle element needs to be added to)
+
+✿ day 6\
+brute force solution, output may be wrong if start is in the leftmost column
