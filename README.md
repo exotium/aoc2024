@@ -34,4 +34,6 @@ the comparison function also sets a variable if the sort has changed the input\
 (to know what output the middle element needs to be added to)
 
 ✿ day 6\
-brute force solution, output may be wrong if start is in the leftmost column
+brute force solution, part 2 may be off by one (or more??)\
+but i can't fix it because it works on the test input and my puzzle input\
+(which makes it practically impossible to debug)
